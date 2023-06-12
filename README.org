@@ -1,0 +1,10 @@
+* horner
+
+Inline polynomial evaluation using Horner's rule
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ruricolist/horner.git   |
+| commit  | 7af017c  |
+| systems | horner |
+|---------+-------------------------------------------|
+
